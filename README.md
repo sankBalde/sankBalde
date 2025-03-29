@@ -21,12 +21,24 @@
 ## Expériences Professionnelles  
 *Basées sur mon profil [LinkedIn](https://www.linkedin.com/in/abdoulaye-baldé-448330231)*
 
-** VINCI Construction – AI Engineer (Stage)**  
+### VINCI Construction – AI Engineer (Stage) 
 _Févr. 2025 - Aujourd’hui, Bordeaux_  
 - Développement d’une solution IA pour l’automatisation de l’inspection des canalisations  
 - Implémentation d’algorithmes combinant CNN et NLP pour analyser des inspections ITV
 
-** Roadcare – ML / Computer Vision (Stage)**  
+### HEXAGLOBE - PROJET DE FIN D'ÉTUDES – TRADUCTION AUTOMATIQUE
+DE TEXTE EN LSF AVEC AVATAR 3D -
+_Juin 2024 - Janv. 2025_
+- Conception et entraînement d’un modèle NLP pour convertir un
+texte en gloss LSF.
+- Modélisation et rigging d’un avatar 3D sur Blender, avec
+animation des gestes sur Unity.
+- Génération et optimisation des mouvements articulaires via des
+fichiers BVH/FBX.
+- Intégration du pipeline Text-to-Gloss-to-Pose, avec application
+des règles grammaticales spécifiques à la LSF.
+
+### Roadcare – ML / Computer Vision (Stage) 
 _Sept. 2023 - Janv. 2024, Montigny-le-Bretonneux, Île-de-France_  
 - Développement d’une méthode d’anonymisation RGPD pour les images smartphone  
 - Estimation 3D des panneaux de signalisation via stéréovision avec caméra OAK-D Pro  
