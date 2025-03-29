@@ -11,7 +11,7 @@
 ## À propos de moi
 
 🎓 **Étudiant en fin de cursus à l'EPITA – Ecole d'Ingénieurs en Informatique**  
-<img src="https://upload.wikimedia.org/wikipedia/fr/9/9d/Logo_EPITA.png" alt="EPITA" width="40">
+<img src="[https://upload.wikimedia.org/wikipedia/fr/9/9d/Logo_EPITA.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AEpita.png&psig=AOvVaw0NVGgu6sgJDDTjO4Z8CH9x&ust=1743351750356000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi9kMHZr4wDFQAAAAAdAAAAABAE)" alt="EPITA" width="40">
 
 🤖 **Expert en IA et Computer Vision** : développement et optimisation d’algorithmes, intégration de modèles NLP et exploitation d’architectures CNN et Transformer.
 
