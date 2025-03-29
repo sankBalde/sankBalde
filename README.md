@@ -19,7 +19,6 @@
 ---
 
 ## Expériences Professionnelles  
-*Basées sur mon profil [LinkedIn](https://www.linkedin.com/in/abdoulaye-baldé-448330231)*
 
 ### VINCI Construction – AI Engineer (Stage) 
 _Févr. 2025 - Aujourd’hui, Bordeaux_  
@@ -59,10 +58,3 @@ Approfondissement des concepts d’IA (recherche heuristique, apprentissage par 
 Formation en TensorFlow, Vision par ordinateur et Deep Learning.
 
 ---
-
----
-
-## Contact
-
-- **Email** : [abdoulaye.balde@epita.fr](mailto:abdoulaye.balde@epita.fr)
-- [Mon profil LinkedIn](https://www.linkedin.com/in/abdoulaye-baldé-448330231)
