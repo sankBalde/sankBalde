@@ -4,7 +4,7 @@
 **sankBalde/sankBalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![HashiCorp Certified: Terraform Associate (004)]](https://www.credly.com/badges/933c3faa-4563-48cf-84d6-4aba3de8942f/public_url)
+[![HashiCorp Certified: Terraform Associate (004)](https://img.shields.io/badge/Certification-Terraform-blue)](https://www.credly.com/badges/933c3faa-4563-48cf-84d6-4aba3de8942f/public_url)
 
 [![CS50’s Introduction to Artificial Intelligence with Python de Harvard](https://img.shields.io/badge/Certification-CS50-blue)](https://certificates.cs50.io/6e087326-7c16-4be5-a78f-f29525aa0314.pdf?size=letter)
 
